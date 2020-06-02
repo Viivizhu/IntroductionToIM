@@ -17,4 +17,4 @@ I found some inpsirations online from serval important artists from this movemen
 - This is my final result: 
 ![](digitalArtVivi.png)
 
-I found it really fun to play with all the shapes and colors. I really like the colors I choose to play with. However, I still find my code quite long and messy. 
+I found it really fun to play with all the shapes and colors. I really like the colors I choose to play with. It is very exciting to play with different numbers and see how that will change the speed of the action or the trails the object makes. 
