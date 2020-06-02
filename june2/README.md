@@ -7,3 +7,14 @@ Andy Warhol experimented with the psychedelic effect of multimedia art-making by
 
 When I saw the old magazine of computer graphics and art, It reminded me of this genre of art created by the artists in the 60s. So I decided to make my computer graphics inspired by this art movement 
 
+I found some inpsirations online from serval important artists from this movement : 
+- Artworks by Bridget Riley
+![](inspo1.png)
+  
+- Artworks by Victor Moscoso
+![](inspo2.png)
+
+- This is my final result: 
+![](digitalArtVivi.png)
+
+I found it really fun to play with all the shapes and colors. I really like the colors I choose to play with. However, I still find my code quite long and messy. 
