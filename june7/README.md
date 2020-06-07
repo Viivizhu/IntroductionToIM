@@ -11,6 +11,9 @@ For our reading habbits, We read from left to write (although in some culture th
 
 I want to use different colors to create a rythem of the poem. I used complementary color to create contrast and draw attentions in places that I think is important.
 
+For some of the lines, I practiced using transformation that we learned from the previous class to create a vertial text.
+
+Video: (https://github.com/Viivizhu/IntroductionToIM/blob/master/june7/text.mov/)
 
 Challenge:
 I think there is definatly a easier way to write the code with arrays. I listed the lines of the poem out, I wonder if there is a way that assign different lines with different number, 
