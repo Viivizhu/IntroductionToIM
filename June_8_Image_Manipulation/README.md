@@ -11,4 +11,5 @@ the program is easy to use and clear, the feedback from the program is shown by 
 
 Challenge:First we made our images random, however, we wanted to make our instruction image always appear as the first image. 
 
+video:(https://github.com/Viivizhu/IntroductionToIM/blob/master/June_8_Image_Manipulation/june%208th.mov)
 
