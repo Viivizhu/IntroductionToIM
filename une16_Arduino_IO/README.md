@@ -3,3 +3,7 @@ Remember those times that you want to go to the bathroom at night but you cannot
 ![](IMG_4886.PNG)
 
 ![](pic16.jpeg)
+
+
+Challenge: the idea is pretty simple, I wanted to use it as a exercise to practice. When i am building it up, the light bulb with the switch was not able to turn on. I tried to test everything and see which part is not corrected correctly. However, later on I realize there's actually nothing wrong with my circuit. Is just that my room is really bright and the light is actualy on but it's super not obvious. Maybe my resistor is too high that the current is too low. 
+
