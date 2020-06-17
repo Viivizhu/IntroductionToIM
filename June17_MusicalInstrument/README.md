@@ -6,3 +6,6 @@ So I ended up making a very basic instrument detects the distance of the hands a
 
 ![](pic17.jpeg)
 ![](IMG_4887.PNG)
+
+
+Here is a link to the video :https://drive.google.com/file/d/1uy6ujxHcsIH_ehITJc9oheOP2KAsa1h0/view?usp=sharing
