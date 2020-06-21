@@ -9,3 +9,7 @@ I modified my code from my previous octopus program. I wanted to make a warning 
 Here is a link to my final work: (https://drive.google.com/file/d/1axh798Wl3ABd9SXGMOAF2fKoCdbIYgY2/view?usp=sharing)
 
 My adrino broad is very simple. There is only one LED light connected to pin 13. 
+
+
+![](june21)
+![](june21_2)
