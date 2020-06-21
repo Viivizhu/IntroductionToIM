@@ -1,0 +1,1 @@
+For my final project, I want to either build a tool with motors and Arduino to make art with paints, or I want to use sensors on the Arduino broad to detects hands and make different stretches on processing.
