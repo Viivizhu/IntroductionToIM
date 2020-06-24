@@ -13,6 +13,10 @@ The construction of the project is fairly simple. On the Arduino broad, I have a
 
 Processing is used as a control in this project. On the processing, I created a canvas with width 255. The value of mouseX that is detected from processing will be sent to Arduino as the speed of the motor. So when the mouse is on the very left side of the canvas, the motor doesn't turn or turns very slow. It turns faster and faster when you hover your mouse towards the right. For the user to understnad how to use it, I drew a little image that indicates where to move the mouse 
 
-![]()
+![](IMG_4888.PNG)
+
+![](IMG_4889.PNG)
+
+![](WechatIMG4.jpeg)
 
 
