@@ -22,3 +22,13 @@ Processing is used as a control in this project. On the processing, I created a 
 - to view my project, Here is the link of the video:
 
 https://drive.google.com/file/d/10SkTWd2Lnn-Ou-lfIiu5C9HF_L2QfDpl/view?usp=sharing
+
+- challenge 
+
+First of all, it was really hard to create something at home in limited space and limited materials. I was researching if I can make the Arduino controlled by wifi or Bluetooth, however, I didn't find the right tool for it in my kit so that limited a lot of possibilities for my project. There is only a little bit of space for me to move the project because I always need to connect that to my computer. 
+
+When I was building the Arduino, for a while the port is not being detected by my computer. I spent a long time trying everything to connect the broad to my computer. However, later I asked the professor and I realized that this is just a problem with a short circuit. Later when I fixed the problem, everything worked again. I connected the ultrasonic sensor incorrectly. I mixed up the wire for the 5v and ground. 
+
+I was also planning to make a more elaborate processing interaction for the wind bell, but I spent a lot of time making the wind bell from found materials. I ran out of time to make a cooler processing function to interact with my Arduino. I spent a lot of time trying to secure the hanging part of the wind bell to the motor because if the speed is as high as 255, the motion can easily break the wind bell. it was also a pain to hang it up somewhere because the wires are just too short. 
+
+For the codes on Ardunio and processing, it wasn't a big challenge. My codes are relatively simple. Also, because I am using the concept that I experimented with in my previous project before, it was easy to make the code work. 
